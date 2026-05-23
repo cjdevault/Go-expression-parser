@@ -17,6 +17,12 @@ A read–eval–print loop (**REPL**) accepts expressions from stdin until you t
 
 ---
 
+## 🎥 Live Demo
+
+<video src="Project_Presentation.mp4" controls width="850"></video>
+
+---
+
 ## Features
 
 | Component | Description |
