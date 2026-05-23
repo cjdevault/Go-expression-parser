@@ -17,7 +17,9 @@ A read–eval–print loop (**REPL**) accepts expressions from stdin until you t
 
 ## 🎥 Live Demo
 
-[▶ Watch Live Demo](Project_Presentation.mp4)
+[![Go Parser Demo](demoPreview.png)](./Project_Presentation.mp4)
+
+Click the image above to watch the full walkthrough demo.
 
 ---
 
