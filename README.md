@@ -15,11 +15,11 @@ This project implements a small **arithmetic expression language** in a single G
 
 A read–eval–print loop (**REPL**) accepts expressions from stdin until you type `exit` or submit an empty line.
 
-## 🎥 Live Demo
+## 🎥 Walkthrough and Background
 
 [![Go Parser Demo](https://img.youtube.com/vi/icEwNXKpv94/maxresdefault.jpg)](https://youtu.be/icEwNXKpv94)
 
-Click the thumbnail above to watch a demo and explanation.
+Click the thumbnail above to watch an explanation of the project including its goals and motivations.
 
 ---
 
