@@ -15,11 +15,9 @@ This project implements a small **arithmetic expression language** in a single G
 
 A read–eval–print loop (**REPL**) accepts expressions from stdin until you type `exit` or submit an empty line.
 
----
-
 ## 🎥 Live Demo
 
-<video src="Project_Presentation.mp4" controls width="850"></video>
+[▶ Watch Live Demo](Project_Presentation.mp4)
 
 ---
 
